@@ -1,0 +1,4 @@
+#Wed Aug 21 19:28:11 NPT 2019
+base.0=I\:\\Flutter\\java_tutorial\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
